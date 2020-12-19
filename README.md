@@ -5,6 +5,7 @@ The player needs to control the rectangle (frog) at the center bottom of the win
 When the frog is in the goal area (top of the window), user can start next level of the game by pressing'n' key. 
 ‘n’ key should work only after the Frog reached the goal area. If ‘n’ key is pressed when the Frog is not at the goal area, nothing happens.
 If the frog collides with the block, the game fails and the player returns to level 1.
+Pressing ‘q’ to exit the program.
 
 Basic version:
 Only one player is allowed to operate; the player uses arrow keys to control the movement of the frog.
